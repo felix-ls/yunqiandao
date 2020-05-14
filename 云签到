@@ -10,9 +10,9 @@ from email.mime.text import MIMEText
 import datetime
 '''============填入手机号与密码==========='''
 user_info={
-	'username':'18574738028',
-	'password':'shang05',
-	'email':'453797581@qq.com',
+	'username':'',
+	'password':'',
+	'email':'',
 	'address':'自己的地址'  #Server酱的SCKEY   可以不用填写这个
 }
 '''================End==================='''
