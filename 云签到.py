@@ -17,11 +17,11 @@ user_info={
 }
 '''================End==================='''
 
-'''==========第三方SMTP服务(勿修改)========='''
+'''==========第三方SMTP服务========='''
 mail_host = "smtp.qq.com"
-mail_user = "453797581@qq.com"  #此处为发件邮箱，用来发送签到完毕的信息
-mail_pass = "psuwcppvubgxbgfb"   #此处为发件邮箱的密钥，请勿更改
-sender = '453797581@qq.com' #此处为发件邮箱
+mail_user = ""  #此处为发件邮箱，用来发送签到完毕的信息
+mail_pass = ""   #此处为发件邮箱的密钥，请勿更改
+sender = '' #此处为发件邮箱
 '''================End==================='''
 #login
 Login_API="http://passport2.chaoxing.com/fanyalogin"
